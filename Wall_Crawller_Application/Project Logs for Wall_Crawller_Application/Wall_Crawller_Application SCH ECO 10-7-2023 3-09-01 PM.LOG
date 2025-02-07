@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P1 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P2 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P3 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=J2 Old Footprint=FP-22-04-1051-MFG New Footprint=FP-22-04-1051-MFG
+Change Component Footprint: Designator=U3 Old Footprint=FP-936A-02-MFG New Footprint=FP-NDH0005D-MFG
+Change Component Comment: Designator=U3 Old Comment=LM2576D2T-005G New Comment=LM2576T-5.0/LF03

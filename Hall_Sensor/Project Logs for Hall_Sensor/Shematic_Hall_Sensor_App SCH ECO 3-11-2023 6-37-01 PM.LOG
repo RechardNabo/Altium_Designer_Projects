@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=U2 Old Footprint=QFN50_32T New Footprint=DIP_28
+Change Pin Designator/Name:  Old Designator=U2-4 Old Name=VCC New Designator =PD3(INT1) New Name=1
+Change Pin Designator/Name:  Old Designator=U2-10 Old Name=PD6(AIN0) New Designator =AVCC New Name=18
+Change Pin Designator/Name:  Old Designator=U2-11 Old Name=PD7(AIN1) New Designator =PD0(RXD) New Name=30
+Change Pin Designator/Name:  Old Designator=U2-13 Old Name=PB1(OC1A) New Designator =PD1(TXD) New Name=31
+Change Pin Designator/Name:  Old Designator=U2-14 Old Name=PB2(S\S\/OC1B) New Designator =PD2(INT0) New Name=32
+Change Pin Designator/Name:  Old Designator=U2-6 Old Name=VCC New Designator =PB6(XTAL1/TOSC1) New Name=7
+Change Pin Designator/Name:  Old Designator=U2-18 Old Name=AVCC New Designator =GND New Name=21
+Change Pin Designator/Name:  Old Designator=U2-5 Old Name=GND New Designator =PB7(XTAL2/TOSC2) New Name=8
+Change Pin Designator/Name:  Old Designator=U2-21 Old Name=GND New Designator =ADC7 New Name=22
+Change Pin Designator/Name:  Old Designator=U2-30 Old Name=PD0(RXD) New Designator =VCC New Name=4
+Change Pin Designator/Name:  Old Designator=U2-31 Old Name=PD1(TXD) New Designator =GND New Name=5
+Change Pin Designator/Name:  Old Designator=U2-32 Old Name=PD2(INT0) New Designator =VCC New Name=6
+Change Pin Designator/Name:  Old Designator=U2-1 Old Name=PD3(INT1) New Designator =PD7(AIN1) New Name=11
+Change Pin Designator/Name:  Old Designator=U2-2 Old Name=PD4(XCK/T0) New Designator =PB0(ICP) New Name=12
+Change Pin Designator/Name:  Old Designator=U2-9 Old Name=PD5(T1) New Designator =PB1(OC1A) New Name=13
+Change Pin Designator/Name:  Old Designator=U2-22 Old Name=ADC7 New Designator =PD4(XCK/T0) New Name=2
+Change Pin Designator/Name:  Old Designator=U2-12 Old Name=PB0(ICP) New Designator =PB2(S\S\/OC1B) New Name=14
+Change Pin Designator/Name:  Old Designator=U2-7 Old Name=PB6(XTAL1/TOSC1) New Designator =PD5(T1) New Name=9
+Change Pin Designator/Name:  Old Designator=U2-8 Old Name=PB7(XTAL2/TOSC2) New Designator =PD6(AIN0) New Name=10

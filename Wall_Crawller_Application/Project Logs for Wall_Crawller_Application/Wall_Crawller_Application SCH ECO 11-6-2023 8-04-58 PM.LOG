@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=P1 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P2 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P3 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=J2 Old Footprint=FP-22-04-1051-MFG New Footprint=FP-22-04-1051-MFG
+Change Net Color : Net Name= GND Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= LEFT Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= LEFT_LED Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= NetLED1_2 Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= NetLED2_2 Old Net Color=RGB(158, 161, 117) New Net Color=Default

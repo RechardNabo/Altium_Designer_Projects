@@ -1,0 +1,49 @@
+Added Component: Designator=C1(FP-T491B107K006AT-MFG)
+Added Component: Designator=J1(FP-53047-0210-MFG)
+Added Component: Designator=R1(FP-RMCF0805-IPC_B)
+Added Component: Designator=R2(FP-3361P-MFG)
+Added Component: Designator=R3(FP-RMCF0805-IPC_B)
+Added Component: Designator=U1(FP-D0008A-IPC_B)
+Added Component: Designator=U2(D0016A_N)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R2-3
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Class Member: Failed to add class member : Component C1 T491B107K006AT
+Add Class Member: Failed to add class member : Component J1 53047-0210
+Add Class Member: Failed to add class member : Component R1 ohms
+Add Class Member: Failed to add class member : Component R2 3361P-1-104GLF
+Add Class Member: Failed to add class member : Component R3 ohms
+Add Class Member: Failed to add class member : Component U1 NE555DR
+Add Class Member: Failed to add class member : Component U2 CD74HC4017M
+Added Room: Name=Sheet1

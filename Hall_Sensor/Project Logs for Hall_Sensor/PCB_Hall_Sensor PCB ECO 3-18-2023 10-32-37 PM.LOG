@@ -1,0 +1,14 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=HDRMINI_M_1X2 New DesignItemId=HDR_M_1X2
+Change Component Footprint: Designator=J1 Old Footprint=HDRMINI_M_1X2 New Footprint=HDR_M_1X2
+Change Component Comment : Designator=J1 Old Comment=HDRMINI_2 New Comment=HDRM2
+Change Component Description : Designator=J1 Old Description=CONN, HEADER, Male, pitch: 1.27mm, 2POS New Description=CONN, HEADER, Male, pitch: 2.54mm, 2POS
+Change Component Library : Designator=J1 Old Library=conn_header_mini_st.SchLib New Library=conn_header_2.54_st.SchLib
+Change component parameters: Designator = "J1" ("J1"); Footprint = "HDRMINI_M_1X2"; UniqueID = "\BCEOBPXB" ("\BCEOBPXB")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "HDRM2"; VariantName = "[No Variations]"
+Added Room: Name=Shematic_Hall_Sensor_App
